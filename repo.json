@@ -1,0 +1,6 @@
+{
+  "name": "Quetrapro Eklenti Deposu",
+  "plugins": [
+    "https://raw.githubusercontent.com/quetrapro/cloudstream-deneme/main/selcuksports/manifest.json"
+  ]
+}
