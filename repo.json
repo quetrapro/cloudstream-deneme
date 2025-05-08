@@ -1,6 +1,11 @@
 {
-  "name": "quetrasunar",
-  "plugins": [
-    "https://raw.githubusercontent.com/quetrapro/cloudstream-deneme/main/selcuksports/manifest.json"
+  "name": "quetrapro repo",
+  "description": "Deneme eklentileri",
+  "manifestVersion": 1,
+  "pluginLists": [
+    {
+      "name": "SelcukSports",
+      "file": "https://raw.githubusercontent.com/quetrapro/cloudstream-deneme/main/selcuksports.zip"
+    }
   ]
 }
